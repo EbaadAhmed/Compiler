@@ -1,0 +1,15 @@
+D:\Visual Studio programs\3rd year 6th semester VS 2010 programs\cc_syntax\cc_syntax\bin\Debug\cc_syntax.exe
+D:\Visual Studio programs\3rd year 6th semester VS 2010 programs\cc_syntax\cc_syntax\bin\Debug\cc_syntax.pdb
+D:\Visual Studio programs\3rd year 6th semester VS 2010 programs\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.exe
+D:\Visual Studio programs\3rd year 6th semester VS 2010 programs\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.pdb
+D:\Visual Studio programs\3rd year 6th semester VS 2010 programs\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.csprojResolveAssemblyReference.cache
+D:\compiler construction\cc_syntax-2\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.exe
+D:\compiler construction\cc_syntax-2\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.pdb
+D:\compiler construction\cc_syntax-2\cc_syntax\cc_syntax\bin\Debug\cc_syntax.exe
+D:\compiler construction\cc_syntax-2\cc_syntax\cc_syntax\bin\Debug\cc_syntax.pdb
+D:\compiler construction\cc_syntax-2\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.csprojResolveAssemblyReference.cache
+D:\VS 2012\cc_syntax_sementics\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.exe
+D:\VS 2012\cc_syntax_sementics\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.pdb
+D:\VS 2012\cc_syntax_sementics\cc_syntax\cc_syntax\bin\Debug\cc_syntax.exe
+D:\VS 2012\cc_syntax_sementics\cc_syntax\cc_syntax\bin\Debug\cc_syntax.pdb
+D:\VS 2012\cc_syntax_sementics\cc_syntax\cc_syntax\obj\x86\Debug\cc_syntax.csprojResolveAssemblyReference.cache

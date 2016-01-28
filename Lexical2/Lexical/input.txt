@@ -1,0 +1,9 @@
+StartProg
+fn
+eb ( dec a ) { dec var = 5 }
+Hall abc{
+fn abc( dec var ,dec var1 , dec var2 ) {
+a = ab ADD cd INC SUB fncall (1.2,"asa",'d')
+}
+}
+EndProg ;

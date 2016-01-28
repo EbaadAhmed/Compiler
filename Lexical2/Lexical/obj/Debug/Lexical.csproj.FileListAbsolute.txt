@@ -1,0 +1,18 @@
+D:\VS 2012\Lexical\Lexical\bin\Debug\Lexical.exe.config
+D:\VS 2012\Lexical\Lexical\bin\Debug\Lexical.exe
+D:\VS 2012\Lexical\Lexical\bin\Debug\Lexical.pdb
+D:\VS 2012\Lexical\Lexical\obj\Debug\Lexical.csprojResolveAssemblyReference.cache
+D:\VS 2012\Lexical\Lexical\obj\Debug\Lexical.exe
+D:\VS 2012\Lexical\Lexical\obj\Debug\Lexical.pdb
+D:\VS 2012\Lexical 2\Lexical\bin\Debug\Lexical.exe.config
+D:\VS 2012\Lexical 2\Lexical\obj\Debug\Lexical.exe
+D:\VS 2012\Lexical 2\Lexical\obj\Debug\Lexical.pdb
+D:\VS 2012\Lexical 2\Lexical\bin\Debug\Lexical.exe
+D:\VS 2012\Lexical 2\Lexical\bin\Debug\Lexical.pdb
+D:\VS 2012\Lexical 2\Lexical\obj\Debug\Lexical.csprojResolveAssemblyReference.cache
+D:\VS 2012\Lexical2\Lexical\bin\Debug\Lexical.exe.config
+D:\VS 2012\Lexical2\Lexical\obj\Debug\Lexical.exe
+D:\VS 2012\Lexical2\Lexical\obj\Debug\Lexical.pdb
+D:\VS 2012\Lexical2\Lexical\bin\Debug\Lexical.exe
+D:\VS 2012\Lexical2\Lexical\bin\Debug\Lexical.pdb
+D:\VS 2012\Lexical2\Lexical\obj\Debug\Lexical.csprojResolveAssemblyReference.cache

@@ -1,0 +1,44 @@
+StartProg 
+Hall eb {
+
+dec a = 5;
+dec ab;
+
+fn abc(dec var,dec var1,dec var2) {
+a = ab ADD cd INC SUB fncall abc (1.2,"asa",'d')
+
+if (a GREATER 6) {
+dec eb = 67;
+}
+otherwise {
+t = a ADD 6;
+}
+
+start {
+DecSeries hello = {"ebaad",16}
+i INC 
+}Till(i LESS 7)
+
+CHECK (eb)
+THIS (5) {
+t = 6;
+}
+STOP 
+Default {
+u = 8;
+}
+
+Round (4 TO 6) {
+DecSeries hello = {4,5,2}
+}
+
+return true;
+
+}
+}
+dec rt;
+obj tr eb;
+rt=tr.eba;
+tr.fncall eb (5);
+
+EndProg;

@@ -1,0 +1,45 @@
+t0 = const_int
+a =  t0
+t1 = const_int
+ab =  t1
+t2 = const_int
+cd =  t2
+t3 = const_int
+i =  t3
+t4 = const_int
+my =  t4
+t5 = const_int
+ma =  t5
+t6 = const_int
+gf =  t6
+t7 = const_int
+hi =  t7
+ad = t7
+t8 = ab ADD cd
+t9 = t8 SUB gf
+ad = t9
+t10 = abx ADD cd
+ay = t10
+t11 = my MUL ma
+hi = t11
+t12 = a > const_int
+if (t12 == false) jump L1
+t13 = const_int
+eb =  t13
+jump L0 
+L1: 
+t14 = const_int
+t =  t14
+t15 = a ADD const_int
+t16 = t15 EQUAL const_int
+t = t16
+L0: 
+L2: 
+t17 = i < const_int
+if ( t17 == true) jump L2
+t17 = const_int
+t18 = eb == t17
+if (t18 == true) jump L
+if (t18 == true) jump L
+t = t17
+u = t17
